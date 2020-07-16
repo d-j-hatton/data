@@ -1,4 +1,4 @@
-importlib_resources>=1.1
+importlib_resources==3.0.0
 py==1.9.0
 pytest==5.4.3
 pyyaml==5.3.1
