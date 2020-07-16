@@ -1,8 +1,12 @@
 import collections
-import importlib_resources
 import pytest
 import string
 import yaml
+
+try:
+    import importlib.resources as importlib_resources
+except ModuleNotFoundError:
+    import importlib_resources
 
 definition_yamls = collections.OrderedDict(
     (fn.name, fn)
