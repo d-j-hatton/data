@@ -483,3 +483,4 @@ data:
    - Select/job017/run.job
    - Select/job017/run.out
    - Select/job017/.run.out.tail
+   - default_pipeline.star
