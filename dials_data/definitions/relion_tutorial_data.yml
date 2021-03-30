@@ -484,3 +484,7 @@ data:
    - Select/job017/run.out
    - Select/job017/.run.out.tail
    - default_pipeline.star
+   - pipeline_PREPROCESS.log
+   - pipeline_CLASS2D.log
+   - pipeline_INIMODEL.log
+   - pipeline_CLASS3D.log
