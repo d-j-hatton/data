@@ -8,7 +8,7 @@ description: >
     the RELION 3.1 tutorial.
 
 data:
- - url: https://github.com/dials/data-files/raw/3fc4d946210f166687cbfe40d577979ecfefc9d9/relion_tutorial/relion_tutorial_files.tar.xz
+ - url: https://github.com/dials/data-files/raw/f59ce40a0639b3b4882f91b8cf688d0e84ce2d5e/relion_tutorial/relion_tutorial_files.tar.xz
    files:
    - AutoPick/job006/coords_suffix_autopick.star
    - AutoPick/job006/default_pipeline.star
